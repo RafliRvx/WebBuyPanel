@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin-001",
+    "username": "admin",
+    "email": "admin@panelpterodactyl.com",
+    "password": "$2a$10$X.C5sJ6NQ3Vk4j8Lz7qB.uW7Y2K1m3N4P5Q6R7S8T9U0V1W2X3Y4Z",
+    "role": "admin",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
